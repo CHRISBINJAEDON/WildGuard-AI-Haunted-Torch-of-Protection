@@ -68,7 +68,7 @@ We focused on affordability, portability, and community feedback.
 - India’s first eco-friendly, AI-ready wildlife deterrent torch
 - Field-tested with villagers for real-world validation
 - SDG-aligned: Goals 3, 9, 11, 13, 15
-- Reimagined for Halloween with ghost-mode visuals and sounds
+- Halloween with ghost-mode visuals and sounds
 
 ---
 
